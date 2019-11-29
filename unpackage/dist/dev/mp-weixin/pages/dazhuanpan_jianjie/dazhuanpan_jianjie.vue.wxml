@@ -1,0 +1,22 @@
+<template name="159345ae">
+  <view style="flex-flow: column nowrap;width: 100%; position: relative; align-items: center;" class="_view data-v-49d3a93c">
+    <image class="_image data-v-49d3a93c" src="../../static/choujiang/jianjiebeijing.jpg" style="width:750rpx;   height: 300rpx; "></image>
+    <view class="_view data-v-49d3a93c" style="flex-flow: column nowrap; width: 650rpx; ">
+      <view class="_view data-v-49d3a93c" style="font-size: 33rpx; font-weight: bold;padding-top: 20rpx;">幕天之下，用阅读连接每一个想知道的心</view>
+      <view class="_view data-v-49d3a93c" style="font-size: 24rpx; color:#808080;  padding-top: 20rpx;">[ 向善向上，不负少年 ]</view>
+      <view class="_view data-v-49d3a93c" style="font-size: 25rpx; color:#696969;  padding-top: 28rpx;  line-height:40rpx;">      “幕天公益”甶中国平安、南方精英传媒联合丁当、樊建 川、冯仑、范以锦、高希钧、谢有顺等各界领袖在2013年创 始发起，专注于乡村少年的精神成长。2017年平安人寿联合 幕天公益发起“幕天捐书”教育公益项目，以书籍流转为核心， 聚焦捐书公益，建设乡村学校图书角。</view>
+      <view class="_view data-v-49d3a93c" style="font-size: 25rpx; color:#696969;  padding-top: 28rpx;  line-height:40rpx;">
+           2017年1月平安金管家APP开设“幕天捐书”公益活动模 块。通过“我要捐书”和“上门收书”可查找平安人寿客服门店捐 书，或预约平安代理人收书。此外，用户还可通过“捐步筹 书、好书分享、义工报名、证书领取”模块，参与“幕天捐书”公 益行动，助力图书角建设。</view>
+      <view class="_view data-v-49d3a93c" style="font-size: 25rpx; color:#696969;  padding-top: 28rpx;  line-height:40rpx;">
+           2017年4月发布《中国城乡少年阅读现状白皮书》，幕天 捐书项目获得《新周刊》“年度公益阅读”奖项；2017年9月发 起“撑书撑少年”公益接力行动，约100万人加入撑书接力行 动，为幕天图书角募集善款。</view>
+      <view class="_view data-v-49d3a93c" style="font-size: 25rpx; color:#696969;  padding-top: 28rpx;  line-height:40rpx;">      2018年“幕天捐书”项目公益理念和实践全面升级。平安人 寿整合“幕天捐书”公益项目与客服节的优质资源，启动“千城 万区”公益行动为乡村少年募集千万册图书，以响应国家精准 扶贫号召，助推中国平安“村教、村医、村官”三村建设工程的 落地。 </view>
+      <view class="_view data-v-49d3a93c" style="font-size: 25rpx; color:#696969;  padding-top: 28rpx;  line-height:40rpx;">
+           2018年“幕天捐书”项目公益理念和实践全面升级。平安人 寿整合“幕天捐书”公益项目与客服节的优质资源，启动“千城 万区”公益行动为乡村少年募集千万册图书，以响应国家精准 扶贫号召，助推中国平安“村教、村医、村官”三村建设工程的 落地。 </view>
+      <view class="_view data-v-49d3a93c" style="font-size: 25rpx; color:#696969;  padding-top: 28rpx;  line-height:40rpx;">
+           “千城万区”行动将以城乡社区为主要阵地，在线上和线下 全面开展阅读推广公益活动，推行包括幕天捐书公益筹书、 少年读书说、平安有约健康行等活动在内的“捐书+”系列公益 活动。幕天捐书“千城万区”行动借助百万代理人网络和亿级用 户金管家平台优势，以阅读促进社区连接，促成相伴共读的美 好生活风尚；同时，挖掘乡村学校个性化需求，实现精准捐 书，以阅读公益助推精准扶贫。 </view>
+      <view class="_view data-v-49d3a93c" style="font-size: 25rpx; color:#696969;  padding-top: 28rpx;  line-height:40rpx;">
+           截至2018年5月24日，幕天捐书已寄出1070368本图书， 覆盖781所乡村学校，帮扶乡村学生260324人。 因为坚信阅读的力量，我们用阅读连接每一个想知道的 心。因为坚守“向善向上，不负少年”的愿景，幕天捐书用阅读 连接你我，希望撑起每一位少年的读书梦，共同打造全球最大 的书籍捐赠公益平台。 </view>
+    </view>
+    <view class="_view data-v-49d3a93c word_type" hover-class="hover" bindtap="handleProxy" data-eventid="{{'ISI-0'}}" data-comkey="{{$k}}">前往抽奖</view>
+  </view>
+</template>

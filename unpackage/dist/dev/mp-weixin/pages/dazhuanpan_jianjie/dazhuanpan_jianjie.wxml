@@ -1,0 +1,1 @@
+<import src="/pages/dazhuanpan_jianjie/dazhuanpan_jianjie.vue.wxml" /><template is="159345ae" data="{{ ...$root['0'], $root }}"/>

@@ -1,0 +1,29 @@
+
+@font-face {
+  font-family: texticons;
+  font-weight: normal;
+  font-style: normal;
+  src: url('https://kaikaiomg.applinzi.com/icon/iconfont.ttf') format('truetype');
+}
+.icontext {
+  font-family: texticons;
+}
+.word_type {
+  margin-top: 80rpx;
+  margin-bottom: 180rpx;
+  width: 150rpx;
+  height: 54rpx;
+  font-size: 28rpx;
+  background-color: #FF4500;
+  border-radius: 10rpx;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  color: white;
+}
+.hover {
+  opacity: 0.5;
+}

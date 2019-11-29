@@ -1,0 +1,1 @@
+<import src="/pages/dazhuanpan_list/dazhuanpan_list.vue.wxml" /><template is="d7ffcb02" data="{{ ...$root['0'], $root }}"/>

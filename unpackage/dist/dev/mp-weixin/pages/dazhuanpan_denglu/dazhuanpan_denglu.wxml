@@ -1,0 +1,1 @@
+<import src="/pages/dazhuanpan_denglu/dazhuanpan_denglu.vue.wxml" /><template is="20f5e549" data="{{ ...$root['0'], $root }}"/>

@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: texticons;
+  font-weight: normal;
+  font-style: normal;
+  src: url('https://kaikaiomg.applinzi.com/icon/iconfont.ttf') format('truetype');
+}
+.icontext {
+  font-family: texticons;
+}
